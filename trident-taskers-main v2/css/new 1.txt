@@ -1,0 +1,20 @@
+<input type = "text" name="" placeholder = "Username">
+		<input type = "password" name = "" placeholder = "Password">
+		<input type = "submit" name = "" value = "Login">	
+		
+		
+		<br/><br/>
+					Click <a href=Taskers.html>here</a>to view all the taskers 
+					<br></br>
+					Click<a href=index.html>here</a>to return  to home page 
+					</div>
+					
+					
+					
+
+	<h1>Trident Taskers</h1>
+		<br/><br/>
+					Click <a href=Login.html>here</a>to login
+					<br/><br/>
+					Click <a href=Sign.html>here</a>to sign up
+					</div>
