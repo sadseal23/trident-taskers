@@ -1,0 +1,18 @@
+   // stored data from the register-form
+    var storedFirstName = localStorage.getItem('Firstname');
+	var storedLastname=localStorage.getItem('lastname');
+	var storedusername=localStorage.getItem('username');
+	var storeAge=localStorage.getItem('Age');
+	var storedPw = localStorage.getItem('pw');
+
+	
+	
+	var Firstname = document.getElementById('Firstname');
+    var Lastname=document.getElementById('Lastname');
+    var Age=document.getElementById('Age');
+	
+		localStorage.setItem('Age',Age.value);
+		
+		
+		localStorage.setItem('Firstname', Firstname.value);
+	localStorage.setItem('lastname',Lastname.value);
